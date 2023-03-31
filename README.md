@@ -24,7 +24,7 @@ Hello, World! I'm a robotics and embedded software engineer with a strong backgr
 
 ### 🏆 Achievements:
 
-- Member of the GTU Robotics Club
+- Member of the [GTU Robotics Club](https://www.gturoboticsclub.in/)
 - Participated in DD Robocon 2022 hosted by IIT Delhi
 - Participated in e-Yantra 2023 competition organized by IIT Bombay, where we learned about ROS development and worked on a holonomic drivetrain project to draw an object passed by image by finding its contour.
 
