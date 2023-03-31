@@ -8,12 +8,9 @@ Hello, World! I'm a robotics and embedded software engineer with a strong backgr
 - Robotics and control systems
 - Computer vision and image processing
 - Microcontroller programming (STM32, Arduino)
-- ROS (1 and 2) and ROS-based frameworks
-- Socket programming
-- Linux programming
+- ROS1 and ROS2 Basics
 - Data structures and algorithms
 - Object-oriented programming
-- Web development (HTML, CSS, JavaScript)
 
 ### 🔭 Projects:
 
