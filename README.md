@@ -32,6 +32,8 @@ Hello, World! I'm a robotics and embedded software engineer with a strong backgr
 
 - Bachelor of Technology in Computer Science and Engineering (Expected graduation: 2024)
 
+<img src="https://github-readme-stats.vercel.app/api?username=Shubham07-bit&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="github stats">
+
 ### 📫 Let's connect:
 
 - LinkedIn: https://www.linkedin.com/in/shubham-jolapara-275427192/
