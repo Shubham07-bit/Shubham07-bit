@@ -1,6 +1,6 @@
 ## 🤖 Robotics and Embedded Software Engineer | Computer Science Student ##
 
-Hello, World! I'm a robotics and embedded software engineer with a strong background in computer science. My technical skills include STM32 CubeIDE, Arduino, C++, C, Python, OpenCV, ROS (1 and 2), socket programming, Linux programming, and a bit of JavaScript.
+Hello, World! I'm a robotics and embedded software engineer with a strong background in computer science. My technical skills include STM32 CubeIDE, Arduino, C++, C, Python, OpenCV, ROS (1 and 2), socket programming, Linux programming.
 
 ### 👨‍💻 Technical Skills:
 
